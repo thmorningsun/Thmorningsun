@@ -30,9 +30,8 @@ I ship features, babysit models, and keep logs so detailed they could testify in
 
 - **Product-minded, detail-oriented, cyberpunk-friendly.** I like clean UIs with neon edges, telemetry that tells a story, and shipping that doesn’t wait for perfect.  
 - **Creative + technical hybrid.** I sketch flows, design prompts, wire data, and argue with myself until the API stops crying.  
-- **Hardware clause:** I have incredible ideas; my husband replies with long speeches about cables, grounding and fire hazards. I don’t do hardware — I do *“what if”*; he does *“let’s not burn the house down.”*
 - **Taste:** dashboards that tell the truth, logs that read like memoirs, and a soft spot for things that go brrr. 
-- **Equestrian mode:** I’m a show-jumping athlete. My horse is “X” — short for XLR8. Yes, I do code review with helmet hair. No, X does not accept pull requests.
+- **Equestrian mode:** I’m a show-jumping athlete. Yes, I do code review with helmet hair. No, my horse does not accept pull requests.
 
 ---
 
