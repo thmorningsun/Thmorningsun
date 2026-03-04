@@ -1,4 +1,4 @@
-> Status: `npm run build` IRL  
+> Status: `npm run` IRL  
 > Role: turning chaos into commits  
 > Perk: AI mom — raising models that still think bedtime is optional   
 > Presence: I only exist on the internet
@@ -30,7 +30,8 @@ I ship features, babysit models, and keep logs so detailed they could testify in
 
 - **Product-minded, detail-oriented, cyberpunk-friendly.** I like clean UIs with neon edges, telemetry that tells a story, and shipping that doesn’t wait for perfect.  
 - **Creative + technical hybrid.** I sketch flows, design prompts, wire data, and argue with myself until the API stops crying.  
-- **Taste:** dashboards that tell the truth, logs that read like memoirs, and a soft spot for things that go brrr. 
+- **Taste:** dashboards that tell the truth, logs that read like memoirs, and a soft spot for things that go brrr.
+- **Wife Schedule:** For some reason, the CFO of my company always follow me at the super market asking if we can get more cookies.
 - **Equestrian mode:** I’m a show-jumping athlete. Yes, I do code review with helmet hair. No, my horse does not accept pull requests.
 
 ---
