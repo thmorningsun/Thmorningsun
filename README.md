@@ -5,7 +5,7 @@
 
 ---
 
-## Hi, I do have a real name — but the repos know me as **The Morning Sun**
+## Hi, I'm Beatriz Marques
 
 Full-stack developer and entrepreneur with a product-first mindset, an eye for accessible, neon-tinted UIs, and a healthy disrespect for flaky webhooks. 
 I specialize in building modular SaaS platforms, designing resilient architectures, and keeping logs so detailed they could testify in court.
@@ -68,6 +68,6 @@ My era of accepting random freelance gigs has officially concluded as I focus on
 
 **However**, I am always open to high-level networking, discussing innovative architectures, or trading notes on tech ecosystems and international startup visas. If your project or idea is outrageously good, I might just forget my calendar and reply with a full architectural diagram.
 
-Want to reach out? Drop an issue on a repo or connect with me on [LinkedIn]([#](https://www.linkedin.com/in/beatriz-gmarques/)) (where I use my polished, responsible professional voice). 
+Want to reach out? Drop an issue on a repo or connect with me on [LinkedIn](https://www.linkedin.com/in/beatriz-gmarques/). 
 
 > *May your pipelines pass, your retries back off politely, and your models learn from their mistakes.*
