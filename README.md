@@ -1,10 +1,3 @@
-> Status: `npm run start:production`
-> Role: Chief Operating Officer & Full-Stack Architect
-> Perk: AI wrangler — keeping models aligned and APIs quiet
-> Presence: Building in public, debugging in private
-
----
-
 ## Hi, I'm Beatriz Marques
 
 Full-stack developer and entrepreneur with a product-first mindset, an eye for accessible, neon-tinted UIs, and a healthy disrespect for flaky webhooks. 
